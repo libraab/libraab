@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 |ft_Printf|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/ft_printf)](https://github.com/JaeSeoKim/badge42)|
 |Get next line|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/get_next_line)](https://github.com/JaeSeoKim/badge42)|
 |Libft|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Libft)](https://github.com/JaeSeoKim/badge42)|
-|netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Netwhat)](https://github.com/JaeSeoKim/badge42)|
+|netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/netwhat)](https://github.com/JaeSeoKim/badge42)|
