@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 |Projects|Grades|
 |---	|---	|
 |Philosophers|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Philosophers)](https://github.com/JaeSeoKim/badge42)|
-|Push_swap|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/push_swap)](https://github.com/JaeSeoKim/badge42)|
-|SoLong|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/so_long)](https://github.com/JaeSeoKim/badge42)|
+|Push swap|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/push_swap)](https://github.com/JaeSeoKim/badge42)|
+|So Long|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/so_long)](https://github.com/JaeSeoKim/badge42)|
 |Minitalk|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/minitalk)](https://github.com/JaeSeoKim/badge42)|
-|B2Root|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
-|Printf|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/ft_printf)](https://github.com/JaeSeoKim/badge42)|
-|GNL|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/get_next_line)](https://github.com/JaeSeoKim/badge42)|
+|Born2beRoot|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
+|ft_Printf|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/ft_printf)](https://github.com/JaeSeoKim/badge42)|
+|Get next line|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/get_next_line)](https://github.com/JaeSeoKim/badge42)|
 |Libft|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Libft)](https://github.com/JaeSeoKim/badge42)|
