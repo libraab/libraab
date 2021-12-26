@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/abouhlel?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
 
-|Projects|Grades|   |Exams|Grades|
-|---	|---	|   |---	|---	|
-|Philosophers|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Philosophers)](https://github.com/JaeSeoKim/badge42)|   |Rank 02|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Exam Rank 02)](https://github.com/JaeSeoKim/badge42)|
+|Projects|Grades|
+|---	|---	|
+|Philosophers|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Philosophers)](https://github.com/JaeSeoKim/badge42)|
 |Push swap|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/push_swap)](https://github.com/JaeSeoKim/badge42)|
 |So Long|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/so_long)](https://github.com/JaeSeoKim/badge42)|
 |Minitalk|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/minitalk)](https://github.com/JaeSeoKim/badge42)|
