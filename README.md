@@ -17,5 +17,5 @@
 |Get next line|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/get_next_line)](https://github.com/JaeSeoKim/badge42)|
 |Libft|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Libft)](https://github.com/JaeSeoKim/badge42)|
 
-<img align="right" src="https://github-readme-stats-eight-virid.vercel.app/api?username=libraab&count_private=true&theme=calm&show_icons=true"/>
-<img align="right" src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=libraab&layout=compact&count_private=false&theme=calm&show_icons=true"/>
+<img align="left" src="https://github-readme-stats-eight-virid.vercel.app/api?username=libraab&count_private=true&theme=calm&show_icons=true"/>
+<img align="center" src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=libraab&layout=compact&count_private=false&theme=calm&show_icons=true"/>
