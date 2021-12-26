@@ -5,7 +5,7 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/abouhlel?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
-|Projects|Grades| <img align="center" src="https://github-readme-stats-eight-virid.vercel.app/api?username=libraab&count_private=true&theme=calm&show_icons=true"/>
+|Projects|Grades| <img align="right" src="https://github-readme-stats-eight-virid.vercel.app/api?username=libraab&count_private=true&theme=calm&show_icons=true"/>
 |---	|---	|
 |Philosophers|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Philosophers)](https://github.com/JaeSeoKim/badge42)|
 |Push swap|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/push_swap)](https://github.com/JaeSeoKim/badge42)|
