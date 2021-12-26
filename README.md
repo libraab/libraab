@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://github.com/JaeSeoKim/badge42)
+[![abouhlel's 42 stats](https://badge42.herokuapp.com/api/stats/abouhlel)](https://github.com/JaeSeoKim/badge42)
 
 🐎 🐎 🐎
 
