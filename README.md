@@ -9,6 +9,7 @@
 
 |Projects|Grades|
 |---	|---	|
+|NetPractice|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/NetPractice)](https://github.com/JaeSeoKim/badge42)|
 |Philosophers|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Philosophers)](https://github.com/JaeSeoKim/badge42)|
 |Push swap|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/push_swap)](https://github.com/JaeSeoKim/badge42)|
 |So Long|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/so_long)](https://github.com/JaeSeoKim/badge42)|
