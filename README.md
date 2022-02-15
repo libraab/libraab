@@ -9,7 +9,7 @@
 
 |Projects|Grades|
 |---	|---	|
-|Cub3D|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/cub3D)](https://github.com/JaeSeoKim/badge42)|
+|Cub3D|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/cub3d)](https://github.com/JaeSeoKim/badge42)|
 |Minishell|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/minishell)](https://github.com/JaeSeoKim/badge42)|
 |NetPractice|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/NetPractice)](https://github.com/JaeSeoKim/badge42)|
 |Philosophers|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/Philosophers)](https://github.com/JaeSeoKim/badge42)|
