@@ -3,7 +3,7 @@
 ![Counter](https://komarev.com/ghpvc/?username=libraab&color=blue)
 
 <img src="http://baddel.fr:3000/api/stats/abouhlel/">
-[![jaeskim's 42 stats](http://baddel.fr:3000/api/stats/abouhlel?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+<img src="http://baddel.fr:3000/api/stats/abouhlel?privacyEmail=true)">
 [![jaeskim's 42 stats](http://baddel.fr:3000/api/stats/abouhlel?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
 |Projects|Grades|
