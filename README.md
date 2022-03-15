@@ -2,9 +2,8 @@
 ![42](https://badgen.net/badge/Born2Code/abouhlel/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![Counter](https://komarev.com/ghpvc/?username=libraab&color=blue)
 
-<img src="http://baddel.fr:3000/api/stats/abouhlel/">
 <img src="http://baddel.fr:3000/api/stats/abouhlel?privacyEmail=true)">
-[![jaeskim's 42 stats](http://baddel.fr:3000/api/stats/abouhlel?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+<img src="http://baddel.fr:3000/api/stats/abouhlel?cursus=C%20Piscine)">
 
 |Projects|Grades|
 |---	|---	|
