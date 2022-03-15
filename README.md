@@ -3,7 +3,6 @@
 ![Counter](https://komarev.com/ghpvc/?username=libraab&color=blue)
 
 <img src="http://baddel.fr:3000/api/stats/abouhlel/">
-<img src="http://baddel.fr:3000/api/stats/abouhlel/">
 
 |Projects|Grades|
 |---	|---	|
