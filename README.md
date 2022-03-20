@@ -22,3 +22,7 @@
 
 <img align="left" src="https://github-readme-stats-eight-virid.vercel.app/api?username=libraab&count_private=true&theme=calm&show_icons=true"/>
 <img align="center" src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=libraab&layout=compact&count_private=false&theme=calm&show_icons=true"/>
+
+
+![c](https://user-images.githubusercontent.com/81954460/159187934-7ad10e4e-b991-413c-a230-6e709b5f8a50.png)
+![c++](https://user-images.githubusercontent.com/81954460/159187937-3fbc6caa-4346-4179-b939-c40ebf42b5af.png)
