@@ -25,4 +25,4 @@
 
 
 ![c](https://user-images.githubusercontent.com/81954460/159187934-7ad10e4e-b991-413c-a230-6e709b5f8a50.png)
-![c++](https://user-images.githubusercontent.com/81954460/159187937-3fbc6caa-4346-4179-b939-c40ebf42b5af.png)
+![rsz_c--](https://user-images.githubusercontent.com/81954460/159188009-94294212-a27c-4ea8-b8c4-653a619df5d1.png)
