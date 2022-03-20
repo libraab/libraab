@@ -23,5 +23,5 @@
 <img align="left" src="https://github-readme-stats-eight-virid.vercel.app/api?username=libraab&count_private=true&theme=calm&show_icons=true"/>
 <img align="center" src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=libraab&layout=compact&count_private=false&theme=calm&show_icons=true"/>
 
-![rsz_1rsz_c](https://user-images.githubusercontent.com/81954460/159188060-179082f9-a283-44d5-97f7-52672c496fe1.png)
+![rsz_11rsz_c](https://user-images.githubusercontent.com/81954460/159188097-b8f211bc-9e0a-40ba-900d-598337be3490.png)
 ![rsz_c--](https://user-images.githubusercontent.com/81954460/159188009-94294212-a27c-4ea8-b8c4-653a619df5d1.png)
