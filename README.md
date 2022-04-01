@@ -5,8 +5,8 @@
 [![abouhlel's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1gd28yu016709mjbxjnehd0?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 [![abouhlel's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1gd28yu016709mjbxjnehd0?cursusId=9)](https://github.com/JaeSeoKim/badge42)
 
-|Projects|Grades| |Projects|Grades|
-|---	|---	| |---	|---	|
+|Projects|Grades|
+|---	|---	|
 |Cub3D|[![jaeskim's 42Project Score](http://baddel.fr:3000/api/project/abouhlel/cub3d)](https://github.com/JaeSeoKim/badge42)|
 |Minishell|[![jaeskim's 42Project Score](http://baddel.fr:3000/api/project/abouhlel/minishell)](https://github.com/JaeSeoKim/badge42)|
 |NetPractice|[![jaeskim's 42Project Score](http://baddel.fr:3000/api/project/abouhlel/NetPractice)](https://github.com/JaeSeoKim/badge42)|
