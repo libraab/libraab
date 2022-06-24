@@ -3,6 +3,9 @@
 [![abouhlel's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1gd28yu016709mjbxjnehd0?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 [![abouhlel's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1gd28yu016709mjbxjnehd0?cursusId=9)](https://github.com/JaeSeoKim/badge42)
 
+<img align="left" src="https://github-readme-stats-eight-virid.vercel.app/api?username=libraab&count_private=true&theme=calm&show_icons=true"/>
+<img align="center" src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=libraab&layout=compact&count_private=false&theme=calm&show_icons=true"/>
+
 |Projects|Grades|
 |---	|---	|
 |Cub3D|[![abouhlel's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1gd28yu016709mjbxjnehd0/project/2468211)](https://github.com/JaeSeoKim/badge42)|
@@ -47,9 +50,6 @@
     </tbody>
 </table>
 </div> -->
-
-<img align="left" src="https://github-readme-stats-eight-virid.vercel.app/api?username=libraab&count_private=true&theme=calm&show_icons=true"/>
-<img align="center" src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=libraab&layout=compact&count_private=false&theme=calm&show_icons=true"/>
 
 
 ![c](https://user-images.githubusercontent.com/81954460/173240845-0bba23ac-7e3e-45a9-a04f-139ab6431287.png)
