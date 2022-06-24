@@ -1,7 +1,7 @@
 ### Hi there 👋  ![42](https://badgen.net/badge/Born2Code/abouhlel/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) ![Counter](https://komarev.com/ghpvc/?username=libraab&color=blue)
 
 [![abouhlel's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1gd28yu016709mjbxjnehd0?cursusId=21)](https://github.com/JaeSeoKim/badge42)
-[![abouhlel's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1gd28yu016709mjbxjnehd0?cursusId=9)](https://github.com/JaeSeoKim/badge42)
+[![abouhlel's 42 stats](https://badge42.vercel.app/api/v2/cl1gd28yu016709mjbxjnehd0/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 <img align="left" src="https://github-readme-stats-eight-virid.vercel.app/api?username=libraab&count_private=true&theme=calm&show_icons=true"/>
 <img align="center" src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=libraab&layout=compact&count_private=false&theme=calm&show_icons=true"/>
