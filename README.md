@@ -6,6 +6,7 @@
 <img align="left" src="https://github-readme-stats-eight-virid.vercel.app/api?username=libraab&count_private=true&theme=calm&show_icons=true"/>
 <img align="center" src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=libraab&layout=compact&count_private=false&theme=calm&show_icons=true"/>
 
+<img align="left">
 |Projects|Grades|
 |---	|---	|
 |Cub3D|[![abouhlel's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1gd28yu016709mjbxjnehd0/project/2468211)](https://github.com/JaeSeoKim/badge42)|
