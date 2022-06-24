@@ -10,6 +10,7 @@
 
 |Projects|Grades|
 |---	|---	|
+|C++|[![abouhlel's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1gd28yu016709mjbxjnehd0/project/2561901)](https://github.com/JaeSeoKim/badge42)|
 |Cub3D|[![abouhlel's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1gd28yu016709mjbxjnehd0/project/2468211)](https://github.com/JaeSeoKim/badge42)|
 |Minishell|[![abouhlel's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1gd28yu016709mjbxjnehd0/project/2383756)](https://github.com/JaeSeoKim/badge42)|
 |NetPractice|[![abouhlel's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1gd28yu016709mjbxjnehd0/project/2452305)](https://github.com/JaeSeoKim/badge42)|
